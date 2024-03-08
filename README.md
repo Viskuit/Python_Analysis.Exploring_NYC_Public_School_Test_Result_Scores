@@ -1,6 +1,6 @@
 # Python_project.Exploring_NYC_Public_School_Test_Result_Scores
 
-<p align="center>
+<p align="center">
     <img src="./images/schoolbus.jpg"/>
 </p>
 
